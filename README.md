@@ -1,3 +1,4 @@
+![output](https://github.com/sumukhsm/Deploying-an-End-to-End-solution-with-a-Windows-virtual-Machine-on-AWS/assets/144142565/a4a2e5f7-e013-4f67-92ff-5b020671f39f)
 Deploying an End to End solution with a Windows virtual Machine on AWS
 Understand the scenario
 
