@@ -11,9 +11,9 @@ Build a VPC environment
    
 Setting	Value
 
-Name tag	Web VPC 34115490
-IPv4 CIDR block	10.0.0.0/16
-IPv6 CIDR block	No IPv6 CIDR block
+Name tag-	Web VPC 34115490
+IPv4 CIDR block-	10.0.0.0/16
+IPv6 CIDR block-	No IPv6 CIDR block
 Tenancy	Default
 
 3. You can use the Copy to clipboard feature to copy the associated text, and then you can paste the text into the browser.
@@ -22,15 +22,15 @@ Tenancy	Default
    
 Web Subnet 1
 Property	Value
-Subnet name	Web Subnet 1
-Availability Zone	us-east-2a
-IPv4 CIDR block	10.0.1.0/24
+Subnet name-	Web Subnet 1
+Availability Zone-	us-east-2a
+IPv4 CIDR block	-10.0.1.0/24
 
 Web Subnet 2
 Property	Value
-Subnet name	Web Subnet 2
-Availability Zone	us-east-2b
-IPv4 CIDR block	10.0.2.0/24
+Subnet name-	Web Subnet 2
+Availability Zone-	us-east-2b
+IPv4 CIDR block-	10.0.2.0/24
 
 5. Configure both subnets to automatically assign public IPv4 addresses.
    
