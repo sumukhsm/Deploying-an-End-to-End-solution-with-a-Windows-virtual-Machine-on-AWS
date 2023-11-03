@@ -1,0 +1,17 @@
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<title>Hello World!</title>
+<link rel="stylesheet" href="hw.css">
+</head>
+<body>
+<div class="mainBox">
+<img src="https://webfiles-34115490.s3.us-east-2.amazonaws.com/images/expert-logo.jpg" alt="LODS Expert Challenge Logo">
+<div class="textBox">
+<h1>Hello World!</h1>
+More information about AWS Certification and Training can be found here:
+<a href="https://webfiles-34115490.s3.us-east-2.amazonaws.com/docs/AWS_TE.pdf">AWS Certification and Training Overview</a>
+</div>
+</div>
+</body>
+</html>
