@@ -1,4 +1,3 @@
-![output](https://github.com/sumukhsm/Deploying-an-End-to-End-solution-with-a-Windows-virtual-Machine-on-AWS/assets/144142565/a4a2e5f7-e013-4f67-92ff-5b020671f39f)
 Deploying an End to End solution with a Windows virtual Machine on AWS
 Understand the scenario
 
@@ -103,3 +102,5 @@ Tag Value-	Web-Final-34115490
 25. Record the public IP address of the Web-Final-34115490 instance in the following Public IP Address text box: Public IP Address
 
 Verify that you can connect to Public IP Address
+
+![output](https://github.com/sumukhsm/Deploying-an-End-to-End-solution-with-a-Windows-virtual-Machine-on-AWS/assets/144142565/7ea8956b-056e-4d01-a9c4-85ae9cc06390)
